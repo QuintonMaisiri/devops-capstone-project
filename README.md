@@ -1,3 +1,5 @@
+Name: QuintonMaisiri/devops-capstone-project" in the box below
+Description: Final devops-capstone-project to complete professional certificate
 # DevOps Capstone Template
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
