@@ -2,7 +2,7 @@ Name: QuintonMaisiri/devops-capstone-project" in the box below
 Description: Final devops-capstone-project to complete professional certificate
 # DevOps Capstone Template
 
-![Build Status](https://github.com/QuintonMaisiri/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+[![Build Status](https://github.com/QuintonMaisiri/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
